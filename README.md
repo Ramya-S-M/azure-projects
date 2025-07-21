@@ -15,22 +15,25 @@ This repo contains my self-learned Azure projects covering VMs, Storage, Backup,
 ## 📌 Project 1: Deploy Azure VM with Shared Image Gallery
 
 ## Step 1: Base VM Created
-![Base VM Created]("\azure-vm-shared-image-gallery\project-01-vm-shared-image-gallery\images\Base_VM_Created.png")
+![Base VM Created](https://github.com/Ramya-S-M/azure-projects/blob/main/images/Base_VM_Created.png)
 
 ## Step 2: Connected to VM and Deprovisioned
-![Connected to VM and Deprovisioned]("\azure-vm-shared-image-gallery\project-01-vm-shared-image-gallery\images\Connected_to_VM_and_Deprovisioned.png")
+![Connected to VM and Deprovisioned](https://github.com/Ramya-S-M/azure-projects/blob/main/images/Connected_to_VM_and_Deprovisioned.png
+)
 
 ## Step 3: Shared Image Gallery Created
-![Shared Image Gallery Created]("\azure-vm-shared-image-gallery\project-01-vm-shared-image-gallery\images\Shared_Image_Gallery_Created.png")
+![Shared Image Gallery Created](https://github.com/Ramya-S-M/azure-projects/blob/main/images/Shared_Image_Gallery_Created.png
+)
 
 ## Step 4: Image Version Created in SIG
-![Image Version Created in SIG]("\azure-vm-shared-image-gallery\project-01-vm-shared-image-gallery\images\Image_Version_Created_in_SIG.png")
+![Image Version Created in SIG](https://github.com/Ramya-S-M/azure-projects/blob/main/images/Image_Version_Created_in_SIG.png
+)
 
 ## Step 5: New VM Deployed from SIG
-![New VM Deployed from SIG]("\azure-vm-shared-image-gallery\project-01-vm-shared-image-gallery\images\New_VM_Deployed_from_SIG.png")
+![New VM Deployed from SIG](https://github.com/Ramya-S-M/azure-projects/blob/main/images/New_VM_Deployed_from_SIG.png)
 
 ## Step 6: Verified New VM Working
-![Verified New VM Working]("\azure-vm-shared-image-gallery\project-01-vm-shared-image-gallery\images\Verified_New_VM_Working.png")
+![Verified New VM Working](https://github.com/Ramya-S-M/azure-projects/blob/main/images/Verified_New_VM_Working.png)
 
 
 ---
