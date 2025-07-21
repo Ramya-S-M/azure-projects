@@ -1,0 +1,13 @@
+# Connect to VM
+ssh azureuser@<public-ip>
+
+# Deprovision the VM
+sudo waagent -deprovision+user --force
+
+# (You may get disconnected automatically)
+
+# Stop the VM from Azure Portal after deprovisioning
+
+# Create image version from Shared Image Gallery
+# Create new VM using that image
+# Test SSH connection again
