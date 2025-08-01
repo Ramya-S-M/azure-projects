@@ -14,6 +14,18 @@ This repo contains my self-learned Azure projects covering VMs, Storage, Backup,
 
 ## 📌 Project 1: Deploy Azure VM with Shared Image Gallery
 
+This project demonstrates how to create and manage Azure Virtual Machines using a Shared Image Gallery (SIG) for standardized, scalable image distribution across regions.
+
+1. Created a Generalized VM to capture a custom image.
+
+2. Created an Image Definition and Image Version inside a Shared Image Gallery.
+
+3. Deployed a new VM using that Shared Image version.
+
+4. Ensured versioning, scalability, and regional replication for faster and consistent VM deployments.
+
+###This setup helps in managing golden images for your organization and supports large-scale VM deployments using pre-approved configurations.
+
 ## Step 1: Base VM Created
 ![Base VM Created](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/Base_VM_Created.png)
 
