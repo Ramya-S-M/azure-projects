@@ -49,16 +49,23 @@ This project demonstrates how to design and deploy a **resilient, secure, and hi
 
 ## 📸 Screenshots
 
+## Availability set
 ![Availability Set](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/Availability-Set.png)
 
+## Load Balancer
 ![Load Balancer](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/Load-Balancer.png)
 
+## Virtual Machine
 ![Virtual Machine](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/Virtual-Machine.png)
 
+## Monitor-Action Group
 ![Monitor-Action Group](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/actiongroup.png)
 
+## Load Balancer-Output
 ![Load Balancer Output](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/load-balancer-output.png)
 
+## SSH Output
 ![SSH Output](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/ssh-output.png)
 
+## Virtual Network
 ![Virtual Network](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/vnet.png)
