@@ -27,22 +27,22 @@ This project demonstrates how to create and manage Azure Virtual Machines using 
 ###This setup helps in managing golden images for your organization and supports large-scale VM deployments using pre-approved configurations.
 
 ## Step 1: Base VM Created
-![Base VM Created](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/Base_VM_Created.png)
+![Base VM Created](https://github.com/Ramya-S-M/Azure-Projects/blob/5d5a448c793958eb4db5f7eba6d4a25b6ee9350a/Shared-Image-Gallery-SIG-VM/images/Base_VM_Created.png)
 
 ## Step 2: Connected to VM and Deprovisioned
-![Connected to VM and Deprovisioned](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/Connected_to_VM_and_Deprovisioned.png)
+![Connected to VM and Deprovisioned](https://github.com/Ramya-S-M/Azure-Projects/blob/5d5a448c793958eb4db5f7eba6d4a25b6ee9350a/Shared-Image-Gallery-SIG-VM/images/Connected_to_VM_and_Deprovisioned.png)
 
 ## Step 3: Shared Image Gallery Created
-![Shared Image Gallery Created](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/Shared_Image_Gallery_Created.png)
+![Shared Image Gallery Created](https://github.com/Ramya-S-M/Azure-Projects/blob/5d5a448c793958eb4db5f7eba6d4a25b6ee9350a/Shared-Image-Gallery-SIG-VM/images/Shared_Image_Gallery_Created.png)
 
 ## Step 4: Image Version Created in SIG
-![Image Version Created in SIG](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/Image_Version_Created_in_SIG.png)
+![Image Version Created in SIG](https://github.com/Ramya-S-M/Azure-Projects/blob/5d5a448c793958eb4db5f7eba6d4a25b6ee9350a/Shared-Image-Gallery-SIG-VM/images/Image_Version_Created_in_SIG.png)
 
 ## Step 5: New VM Deployed from SIG
-![New VM Deployed from SIG](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/New_VM_Deployed_from_SIG.png)
+![New VM Deployed from SIG](https://github.com/Ramya-S-M/Azure-Projects/blob/5d5a448c793958eb4db5f7eba6d4a25b6ee9350a/Shared-Image-Gallery-SIG-VM/images/New_VM_Deployed_from_SIG.png)
 
 ## Step 6: Verified New VM Working
-![Verified New VM Working](https://github.com/Ramya-S-M/Shared-Image-Gallery-SIG-VM/blob/3f1629325e3a6342a9ea7ae5ee290cfcf983dce6/images/Verified_New_VM_Working.png)
+![Verified New VM Working](https://github.com/Ramya-S-M/Azure-Projects/blob/5d5a448c793958eb4db5f7eba6d4a25b6ee9350a/Shared-Image-Gallery-SIG-VM/images/Verified_New_VM_Working.png)
 
 
 ---
