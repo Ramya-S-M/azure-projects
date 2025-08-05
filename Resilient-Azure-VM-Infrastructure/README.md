@@ -16,7 +16,7 @@ This project demonstrates how to design and deploy a **resilient, secure, and hi
 
 ## Architecture Overview
 
-
+![Architecture](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/architecture.png)
 
 ---
 
@@ -49,9 +49,16 @@ This project demonstrates how to design and deploy a **resilient, secure, and hi
 
 ## 📸 Screenshots
 
-> Include the following screenshots (optional):
-- VM deployment in Availability Zones
-- Load Balancer backend pool
-- JIT Access enabled
-- Alert rule creation
-- Metrics in Azure Monitor
+![Availability Set](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/Availability-Set.png)
+
+![Load Balancer](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/Load-Balancer.png)
+
+![Virtual Machine](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/Virtual-Machine.png)
+
+![Monitor-Action Group](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/actiongroup.png)
+
+![Load Balancer Output](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/load-balancer-output.png)
+
+![SSH Output](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/ssh-output.png)
+
+![Virtual Network](https://github.com/Ramya-S-M/Azure-Projects/blob/17b3d4c8343216f06af4017c4c4f274d7fb4b8a6/Resilient-Azure-VM-Infrastructure/images/vnet.png)
