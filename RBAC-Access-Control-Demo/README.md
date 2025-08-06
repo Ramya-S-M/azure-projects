@@ -13,9 +13,9 @@ To provide granular access to users by assigning them appropriate roles at diffe
 ## ✅ Project Tasks
 
 1. Create a Resource Group
-2. Create a Virtual Machine
+2. Create a Storage Account
 3. Create a test user in Microsoft Entra ID (Azure AD)
-4. Assign a built-in role (e.g., Virtual Machine Reader) to the user
+4. Assign a built-in role (e.g., Storage Blob Data Reader) to the user
 5. Verify permissions by logging in as the test user
 6. Remove RBAC role after testing
 
@@ -23,7 +23,8 @@ To provide granular access to users by assigning them appropriate roles at diffe
 
 ## 📸 Screenshots
 
-Store your screenshots in the `images` folder and embed like this:
+## Azure AD Users
+![Test User Creation](https://github.com/Ramya-S-M/Azure-Projects/blob/894d7d6afec7a104709c4bc2e69031ea596195d8/RBAC-Access-Control-Demo/images/Users.png)
 
-```markdown
-![Create Resource Group](images/create-resource-group.png)
+## Output from Access Assignment
+![Test User Output](https://github.com/Ramya-S-M/Azure-Projects/blob/894d7d6afec7a104709c4bc2e69031ea596195d8/RBAC-Access-Control-Demo/images/Output.png)
