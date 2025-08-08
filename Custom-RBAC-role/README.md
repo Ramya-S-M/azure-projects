@@ -29,3 +29,7 @@ Include only the required actions:
     "Microsoft.Compute/virtualMachines/restart/action",
     "Microsoft.Compute/virtualMachines/start/action"
 ]
+
+ 
+ ### 2. Images
+ 
